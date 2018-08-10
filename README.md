@@ -7,3 +7,4 @@ verification.
 
 * [HashiCorp](https://www.hashicorp.com/security)
 * [GitHub Web Flow](https://help.github.com/articles/about-gpg/)
+* [1Password](https://support.1password.com/command-line-getting-started/)
