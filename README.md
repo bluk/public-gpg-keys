@@ -11,3 +11,4 @@ verification.
 * [Apple Product Security](https://support.apple.com/en-us/HT201214)
 * [Facebook](https://www.facebook.com/notes/protect-the-graph/securing-email-communications-from-facebook/1611941762379302)
 * [Swift](https://swift.org/download/#using-downloads)
+* [jq](https://stedolan.github.io/jq/download/)
