@@ -12,3 +12,4 @@ verification.
 * [Facebook](https://www.facebook.com/notes/protect-the-graph/securing-email-communications-from-facebook/1611941762379302)
 * [Swift](https://swift.org/download/#using-downloads)
 * [jq](https://stedolan.github.io/jq/download/)
+* [Google Linux Packages Keymaster](https://dl.google.com/dl/linux/linux_signing_key.pub)
